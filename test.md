@@ -1,6 +1,6 @@
 ---
 title: "test"
-order: 4
+order: 5
 ---
 ### articles
 « Pratiques féministes et queer de la microédition : graphisme, langage, transmission », dans *Fabriquer le genre*, revue *Techniques&Cultures* n°77, EHESS, juin 2022.[^1]  
