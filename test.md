@@ -2,7 +2,7 @@
 title: "test"
 order: 4
 ---
-# articles
+### articles
 « Pratiques féministes et queer de la microédition : graphisme, langage, transmission », dans *Fabriquer le genre*, revue *Techniques&Cultures* n°77, EHESS, juin 2022.[^1]  
 → [lire en ligne sur Cairn](https://www.cairn.info/revue-techniques-et-culture-2022-1-page-158.htm)
 
@@ -39,7 +39,7 @@ Il apparaît que l’exposition est bien souvent « en-dessous de la réalité v
 
 Présentation de « LA FORME/féminin SUIT LA FONCTION/masculin » de Judy Attfield, à l’occasion de sa traduction en français. [RADDAR n°3](https://mudac.ch/shop/raddar3/).
 
-# communications
+### communications
 
 « Apprivoiser le monstre, pratiques graphiques d’aide à l’écriture en doctorat. » JE Écritures de recherche et dispositifs créatifs, Université de Franche-Comté, Besançon (CRIT), 17 mars 2022.
 
