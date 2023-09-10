@@ -4,17 +4,18 @@ order: 4
 ---
 ### articles
 « Pratiques féministes et queer de la microédition : graphisme, langage, transmission », dans *Fabriquer le genre*, revue *Techniques&Cultures* n°77, EHESS, juin 2022.[^1]  
-→ [lire en ligne sur Cairn](https://www.cairn.info/revue-techniques-et-culture-2022-1-page-158.htm)
+→ [lire en ligne sur Cairn](https://www.cairn.info/revue-techniques-et-culture-2022-1-page-158.htm)  
 
-  <details "résumé">
+  <details "résumé">  
   
  Ce portfolio présente des fanzines et microéditions féministes et queer : fanzines de la collective [Bye Bye Binary](https://genderfluid.space), ateliers du  [·ClubMæd ·](https://langage-inclusif-clubmed.fr/), éditions de la maison [Les Grillages](https://www.editionslesgrillages.com/), zine-revue [Mamma Rassise](https://www.instagram.com/mammarassise).
  
 Ces imprimés donnent un aperçu de ce qui serait un « laboratoire graphique du genre » : pratique collective et en réseau, expérimentations typographiques et poétiques sur une langue non-binaire… Des ateliers permettent de diversifier et « décomplexer » l'utilisation de l'écriture inclusive, avec des jeux de mots, de découpage, de lecture.
  Les formes  se veulent irrécupérables, utopiques, hors des normes de lisibilité. Ces microéditions ont également pour vocation de faire circuler des textes militants augmentés ou traduits, et de rendre visibles des savoirs alternatifs en dehors des circuits d’édition traditionnels. 
  
-Ces objets matérialisent les vécus et les savoirs (et vraiment au sens de matériau : le papier <3) et contribuent à renforcer un réseau d’adelphité féministe et queer dans le milieu de l'art et du design.
-   </details >
+Ces objets matérialisent les vécus et les savoirs (et vraiment au sens de matériau : le papier <3) et contribuent à renforcer un réseau d’adelphité féministe et queer dans le milieu de l'art et du design.  
+
+</details>
 
 « Promenade bibliographique dans les critiques féministes du design », dans *Le discours critique en arts et en design – Pratiques et enjeux contemporains*, Cité du design et Fabelio, 2022.[^2]
 <details "résumé">
