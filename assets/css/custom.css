@@ -17,3 +17,16 @@ body {
  
 }
 
+a:hover {
+	text-shadow: #6B03fc 10px 1px 20px;}
+}
+
+a.footnote-ref, a.footnote-backref {
+text-decoration: none;
+color: #6b03fc;
+}
+
+a.footnote-ref:hover, a.footnote-backref:hover {
+text-decoration: none;
+color: #502a62;
+}
